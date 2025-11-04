@@ -1,0 +1,29 @@
+# CMake build directories
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/*.cmake
+/*.cbp
+/*.sln
+/*.vcxproj*
+/*.user
+/out/
+
+# Visual Studio specific
+.vs/
+/*.VC.db
+/*.VC.opendb
+CMakeSettings.json
+
+# vcpkg installed packages
+/vcpkg_installed/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
